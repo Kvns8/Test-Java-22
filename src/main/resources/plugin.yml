@@ -1,0 +1,4 @@
+name: Test 22
+version: '${project.version}'
+main: me.kalel.testjava22.Test22
+api-version: '1.20'
